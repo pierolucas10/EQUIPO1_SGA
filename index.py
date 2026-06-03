@@ -1,2 +1,7 @@
 echo("hola mundo")
 echo("tuli broca")
+print("hola mundo")
+print("tuli broca")
+print("hpolaaaa")
+print("HELLOOO")
+print("HELLOOO")
