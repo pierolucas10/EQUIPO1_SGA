@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 echo("yopi")
 echo("PIEROVOCHI")
@@ -23,6 +24,9 @@ echo("hola mundo")
 echo("hola aparco")
 echo("hlloe)")
 >>>>>>> e5abdb6 (cambio liuz)
+=======
+
+>>>>>>> Stashed changes
 echo("hola aparco")
 echo("hlloe)")
 echo("hola mundo")
