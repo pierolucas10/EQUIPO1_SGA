@@ -1,7 +1,18 @@
 echo("hola mundo")
+<<<<<<< HEAD
 echo("tuli broca")
 print("hola mundo")
 print("tuli broca")
 print("hpolaaaa")
 print("HELLOOO")
 print("HELLOOO")
+=======
+echo("hola aparco")
+echo("hlloe)")
+echo("hola mundo")
+echo("hola aparco")
+echo("hlloe)")
+echo("hola mundo")
+echo("hola aparco")
+echo("hlloe)")
+>>>>>>> e5abdb6 (cambio liuz)
