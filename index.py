@@ -1,15 +1,11 @@
 
-echo("michala")
-
 echo("hola mundo")
-
 echo("tuli broca")
 print("hola mundo")
 print("tuli broca")
 print("hpolaaaa")
 print("HELLOOO")
 print("HELLOOO")
-
 echo("hola aparco")
 echo("hlloe)")
 echo("hola mundo")
@@ -18,14 +14,4 @@ echo("hlloe)")
 echo("hola mundo")
 echo("hola aparco")
 echo("hlloe)")
-
-echo("hola aparco")
-echo("hlloe)")
-echo("hola mundo")
-echo("hola aparco")
-echo("hlloe)")
-echo("hola mundo")
-echo("hola aparco")
-echo("hlloe)")
-
 echo("PIERO BROCA ")
